@@ -1,0 +1,59 @@
+body {
+  font-family: Arial,sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  color: #515076;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 78px;
+  margin: 0px;
+  text-align: center;
+}
+
+.product_list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.cotegory {
+  font-size: 12px;
+  line-height: 24px;
+  color: #a5a3b9;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.product_name {
+  font-size: 20px;
+  line-height: 27px;
+  margin-top: 5px;
+}
+
+.price {
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 700px;
+  margin-top: 25px;
+}
+
+.price_rub {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.product_card_box {
+  box-sizing: border-box;
+  max-width: 340px;
+  max-height: 573;
+  padding: 25px;
+  margin: 45px;
+  background-color: #f7f7fa;
+}
+
+.ingredients {
+  margin: 5px;
+}

@@ -3,7 +3,7 @@ body {
   font-size: 13px;
   line-height: 18px;
   color: #515076;
-  background-image: url(img/bg.png);
+  background-image: url("img/bg.png");
   background-size: 790px auto;
   background-repeat: no-repeat;
   background-position-x: calc(100%/2-160px);

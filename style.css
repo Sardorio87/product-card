@@ -24,7 +24,7 @@ body {
 
 .catalog__container {
   padding-top: 220px;
-  background-image: url(../images/dandelions.png);
+  background-image: url("img/bg-dandelions.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: 790px 697px;

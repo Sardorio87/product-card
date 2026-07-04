@@ -95,3 +95,46 @@ body {
   font-size: 20px;
   line-height: 24px;
 }
+
+.color-toggle-button {
+  background-color: #D4C9E8;
+}
+
+.color-toggle-button--active {
+  background-color: #C2DECB;
+}
+
+.card__description {
+  line-height: 18px;
+  margin-bottom: 15px;
+}
+
+.compound__name {
+  display: block;
+  padding-bottom: 5px;
+}
+
+.compound__list li {
+  padding-left: 3px;
+  margin-bottom: 5px;
+  list-style-position: inside;
+}
+
+.card__compound {
+  margin-bottom: 25px;
+}
+
+.card__price-block {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card__price {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.card__value {
+  font-size: 20px;
+  line-height: 24px;
+}
